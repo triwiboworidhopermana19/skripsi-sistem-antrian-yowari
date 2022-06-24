@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T13:49:15.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="Df5WzYDBQZ3AGAVvr1-y" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T14:15:45.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="CbUXu1mGPUbi37tHUqC7" version="20.0.3" type="github">
   <diagram id="ZG36hmKxJaGmtuSurVaH" name="Page-1">
-    <mxGraphModel dx="849" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="Mp9YieknU1mIFBs38h_f-57" value="include" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Mp9YieknU1mIFBs38h_f-56" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mp9YieknU1mIFBs38h_f-58" value="Lihat Notifikasi Nomor Urut Antrian" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Mp9YieknU1mIFBs38h_f-58" value="Melihat Notifikasi Nomor Urut Antrian" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="580" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mp9YieknU1mIFBs38h_f-59" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" parent="1" target="Mp9YieknU1mIFBs38h_f-58" edge="1">
